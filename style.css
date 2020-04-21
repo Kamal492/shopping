@@ -1,0 +1,197 @@
+
+html{
+  scroll-behavior: smooth;
+}
+
+
+.company-icon {
+  height: 1.6em;
+  width: 1.6em;
+  margin: 0 0.7em;
+}
+
+.company-logo {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Baloo Paaji 2', cursive;
+  margin: 0;
+  padding-top: 0;
+}
+.navi-edge{
+  border-radius: 20px;
+}
+.nav-col{
+  background-color: #f9fcfb;
+}
+.intro{
+  margin-top: 0;
+  background-image:linear-gradient(to right top,rgba(178, 235, 242, 0.6),rgba(7, 121, 228, 0.6)), url("pics/background-img.jpg");
+  background-size: cover;
+  height:40em;
+text-align: center;}
+
+.company-name{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+}
+.name{
+  font-size: 4em;
+  font-weight: bold;
+  letter-spacing:0.1em;
+  color:#000272;
+  text-transform: uppercase;
+}
+.intro-button{
+  border-radius: 2em;
+  padding: 0.4em 2em 0.4em;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #4f81c7;
+  font-size: 1.4em;
+  margin-top: 2em;
+  background-color: #64c4ed;
+  border-color: #fff;
+
+}
+.intro-button:hover{
+  background-color: #4f81c7;
+  color: #fff;
+}
+
+.list-item{
+  float:left;
+}
+.nav-color{
+  background-color: #f4f4f4;
+}
+.ls-img{
+  height: 8em;
+  width:8em;
+
+}
+.ls-img-1{
+  text-align: center;
+  padding-top: 2em;
+  padding-right: 2em;
+}
+.ls-card{
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: 3em;
+
+}
+.ls-heading{
+  text-align: center;
+  padding-top: 1em;
+  color:#342ead;
+}
+.ls-section{
+  background-image: url("pics/wallpaper1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 3em;
+}
+.card-1{
+  border-radius: 3em;
+}
+h5{
+  text-align: center;
+  color: #0779e4;
+  font-weight: bold;
+}
+.im:hover{
+  height:9em;
+  width: 9em;
+  filter:opacity(85%);
+}
+.ls-img2{
+  height:8em;
+  width:8em;
+}
+.deck-1{
+  padding:2em;
+}
+.surprise{
+  background-image: url("pics/wallpaper2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 3em;
+}
+h6{
+  text-align: center;
+}
+.price{
+  text-align: center;
+
+}
+
+
+.mbi-img{
+  height: 6em;
+  width:6em;
+
+}
+.cci{
+  color:#0779e4;
+}
+#testimonials {
+  background-image: url("pics/wallpaper2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.test {
+  padding: 10% 30% 10%;
+  text-align: center;
+}
+
+.test-image {
+  border-radius: 100px;
+  height: 100px;
+  width: 100px;
+  margin-right: 20px;
+  float: left;
+}
+.testimonial-text {
+  font-family: montserrat;
+  margin-bottom: 20px;
+  color: #fff;
+  font-size: 1.5em;
+}
+.review{
+  padding-left: 8%;
+}
+.inp-txt{
+  margin-bottom: 1em;
+  border-radius: 2em;
+}
+.footer{
+  background-color: #fff;
+}
+div{
+  display:block;
+}
+.foot{
+
+  margin-left: 30%;
+}
+.footer-div{
+  padding-left: 5%;
+  padding-top: 2em;
+}
+.foot-link{
+  color: blue;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+.foot-link:hover{
+  color: #30475e;
+}
+.foot-img{
+  height:2em;
+  width:2em;
+  float:right;
+  margin-bottom: 1em;
+}
